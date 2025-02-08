@@ -1,7 +1,7 @@
 # MH2Dos-HDUI
 
-A fan-made 2x, 4, 8x, and 16x high-resolution UI texture pack for Monster Hunter 2 Dos By PaulBury. Made for use in the PSCX2 emulator alongside the English Patch and MH2Plus deltaX patches.
-Tries to fix various issues with the original UI.
+A fan-made 2x, 4, 8x, and 16x high-resolution UI texture pack for Monster Hunter 2 Dos By PaulBury. Made for use in the PSCX2 emulator alongside the English Patch and MH2Plus deltaX patches.  
+Tries to fix various issues with the original UI. Works mostly in Offline/Singleplayer mode. Multiplayer has limited support.
 
 Work in Progress, updates will be slow.  
 
@@ -55,7 +55,11 @@ To download source files, click the green "Code" button at the top of the page a
 ![DownloadSOURCE](https://github.com/user-attachments/assets/e48b1014-46a3-4ccf-9c82-97baea001c7c)
 
 To download ready-to-use files, click on ["Releases"](https://github.com/PaulBury/MH2Dos-HDUI/releases/latest) on the right side of the page and download the parts and variants of the pack you want. Various sizes are available.  
-Extract with 7-Zip.
+Extract with 7-Zip.  
+
+
+![DownloadLATEST](https://github.com/user-attachments/assets/4da55556-d158-440f-be10-c4d33f4c8b7e)
+
 
 ### IMPORTANT
 PCSX2 loads custom textures from memory! Many textures get generated in Monster Hunter 2 Dos. That's why some parts of the pack are large.  
@@ -65,7 +69,7 @@ LoadingScreen_Kushala folder (generated textures)
 
 To fix this issue, more textures must be dumped, more in the "How can I help" section. 
 
-#### "What do I download?"
+### "What do I download?"
 -----------------------------------------------------------------------------------------------------------  
 The pack is separated into multiple sizes and part variants.  
 
@@ -120,12 +124,25 @@ Instructions for Mobile will be added in the future. (if custom textures even wo
 ### How can I help?
 -----------------------------------------------------------------------------------------------------------
 Turn on "Dump Textures" in MH2Dos' Game Properties, play, and then check the textures get dumped in the location from the pictures above, in a folder named "dumps" instead of replacements.  
-As you play MH2Dos, PCSX2 will gradually dump textures. You can contact me on discord (nickname: paulbury), and I will tell you what file names I need.  
+As you play MH2Dos, PCSX2 will gradually dump textures. You can contact me on Discord (nickname: paulbury), and I will tell you what file names I need.  
 
-![OptionalStep](https://github.com/user-attachments/assets/63786923-a416-4826-ad3b-38c0955dfd5a)
+![OptionalStep](https://github.com/user-attachments/assets/63786923-a416-4826-ad3b-38c0955dfd5a)  
+
+This will help me complete the texture dump, and eventually, the texture pack will work most of the time.
 
 ### Gallery
 -----------------------------------------------------------------------------------------------------------  
+1080p, 8x version, 16:9 ratio  
+![LoadingScreen](https://github.com/user-attachments/assets/77ff9382-4df4-4bc8-ac3d-77dcc163c521)  
+![HUD1](https://github.com/user-attachments/assets/e6b975d2-1dda-43d9-bd17-c38131e439ef)  
+![Shop](https://github.com/user-attachments/assets/69513df7-1fb3-4125-9e84-28ffd8fab63e)  
+![Cooking](https://github.com/user-attachments/assets/4a3b1468-25f4-46fe-8228-5794303b67cf)  
+![BlueChest](https://github.com/user-attachments/assets/551c2a76-9036-40c8-8905-63e955fa9cd1)  
+
+
+1080p, 16x version, 4:3 ratio comparison with the original.  
+![Comparison1](https://github.com/user-attachments/assets/f0b1ffa7-8922-46d7-b141-5d0bf8785d5e)
+![Comparison2](https://github.com/user-attachments/assets/dc8dcce8-c218-4715-89aa-c64d018a21c8)
 
 
 ### Credits
@@ -162,4 +179,3 @@ I apologize to anyone who tries to make sense of the source files. Make sure to 
 Also, it's my first time using Github, so mistakes will be made.  
 
 Bulk Rename Utility with Import Rename-Pairs feature was used to rename all the files. Source files include filelist_(name).txt with all texture names using the image.  
-# MH2Dos-HDUI
