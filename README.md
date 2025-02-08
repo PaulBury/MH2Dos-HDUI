@@ -162,3 +162,4 @@ I apologize to anyone who tries to make sense of the source files. Make sure to 
 Also, it's my first time using Github, so mistakes will be made.  
 
 Bulk Rename Utility with Import Rename-Pairs feature was used to rename all the files. Source files include filelist_(name).txt with all texture names using the image.  
+# MH2Dos-HDUI
