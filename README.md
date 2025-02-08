@@ -78,7 +78,7 @@ MH2DosHDUI_VERSION_RATIO_SIZE_VARIANT.7z
 **.7z compression reduces the size from 500MB (16x version) to about 10MB.**  
 
 2x, 4x, 8x, and 16x refer to how many times bigger the textures are compared to the original 256x256 resolution.  
-4-3 and 16-9 are aspect ratios, 4-3 is the original and 16-9 is for use with a widescreen patch/hack.  
+4-3 and 16-9 are aspect ratios, 4-3 is the original and 16-9 is for use with a widescreen patch/hack, it's still WIP.
 Future variants (e.g. semi-transparent maps) will need to be downloaded separately, overwriting the files in the standard pack.  
 
 Examples of what each category/folder affects:  
