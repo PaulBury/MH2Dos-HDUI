@@ -54,7 +54,7 @@ If somebody teaches me how to patch in textures or PCSX2 adopts how custom textu
 To download source files, click the green "Code" button at the top of the page and select "Download ZIP."
 ![DownloadSOURCE](https://github.com/user-attachments/assets/e48b1014-46a3-4ccf-9c82-97baea001c7c)
 
-To download ready-to-use files, click on ["Releases"](https://github.com/PaulBury/MH2Dos-HDUI/releases/latest) on the right side of the page and download the parts and variants of the pack you want. Various sizes are available.  
+To download ready-to-use PCSX2 files, click on ["Releases"](https://github.com/PaulBury/MH2Dos-HDUI/releases/latest) on the right side of the page and download the parts and variants of the pack you want. Various sizes are available.  
 Extract with 7-Zip.  
 
 
